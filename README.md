@@ -10,3 +10,11 @@ UV is a command-line interface we'll use to create and manage our AI agent.
 ```bash
 pip install uv-cli
 
+2. 📁 Create Folder
+Create a new folder where your agent code will live.
+
+bash
+Copy
+Edit
+mkdir creating-First-AI-Agent
+cd creating-First-AI-Agent
